@@ -1,4 +1,4 @@
-module github.com/krecu/yahb
+module github.com/VictorMityunin/yahb
 
 go 1.15
 

@@ -5,5 +5,5 @@
 To install, use `go get`:
 
 ```shell
-go get github.com/krecu/yahb
+go get github.com/VictorMityunin/yahb
 ```
